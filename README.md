@@ -1,6 +1,7 @@
 ## Hi there 👋
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BI7KHI&show_icons=true&theme=dark&hide=issues&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BI7KHI&show_icons=true&theme=dark&hide=issues&count_private=true" alt="">
+</p> 
 <!--
 **BI7KHI/BI7KHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
