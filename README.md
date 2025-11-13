@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BI7KHI&show_icons=true&theme=dark&hide=issues&count_private=true" alt="GitHub Stats" width="350">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BI7KHI&layout=compact&theme=tokyonight" alt="GitHub Stats" width="350">
 </p>
 
 ## 🛠️ Working Environment
@@ -25,17 +26,6 @@
   <img src="https://img.shields.io/badge/中文-zh_CN-informational?logo=china&logoColor=red" alt="Chinese">
   <img src="https://img.shields.io/badge/English-en-green?logo=unitedkingdom&logoColor=blue" alt="English">
 </p>
-
-## 📌 Quick Links
-<p align="center">
-  <a href="https://github.com/BI7KHI?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repositories-FF6B6B?logo=github&logoColor=white" alt="Repositories">
-  </a>
-  <a href="https://github.com/BI7KHI?tab=stars" target="_blank">
-    <img src="https://img.shields.io/badge/Starred-4ECDC4?logo=star&logoColor=white" alt="Starred">
-  </a>
-</p>
-
 <!--
 **BI7KHI/BI7KHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
