@@ -1,32 +1,40 @@
 ## Hi there 👋 I'm BI7KHI
 
+A College Student @ Guangdong University of Technology | HAM Radio Enthusiast | Embedded Developer
+
+📫 Connect with Me  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BI7KHI&show_icons=true&theme=dark&hide=issues&count_private=true" alt="GitHub Stats" width="350">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BI7KHI&layout=compact&theme=tokyonight" alt="GitHub Stats" width="350">
+  <a href="https://blog.bi7khi.xyz" target="_blank"><img src="https://img.shields.io/badge/Blog-bi7khi.xyz-2563eb?logo=blogger&logoColor=white" alt="Blog"></a>
+  <a href="https://space.bilibili.com/667586588" target="_blank"><img src="https://img.shields.io/badge/Bilibili-@BI7KHI-fa7298?logo=bilibili&logoColor=white" alt="Bilibili"></a>
+  <a href="https://www.qrz.com/db/bi7khi" target="_blank"><img src="https://img.shields.io/badge/QRZ-bi7khi-009688?logo=radio&logoColor=white" alt="QRZ"></a>
 </p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BI7KHI&show_icons=true&theme=dark&hide=issues&count_private=true&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BI7KHI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+</p>
+
 
 ## 🛠️ Working Environment
 <p align="center">
-  <img src="https://img.shields.io/badge/CLion-000000.svg?logo=clion&logoColor=ffffff" alt="CLion">
-  <img src="https://img.shields.io/badge/WebStorm-000000.svg?logo=webstorm&logoColor=ffffff" alt="WebStorm">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white" alt="VSCode">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu">
-</p>
-
-## ⚙️ Programming Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Python/Python.png" alt="Python" width="120">
-  <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/C%2CC%23%2CC%2B%2B/All.png" alt="C/C++" width="120">
-  <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Java/Java.png" alt="Java" width="120">
-  <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Html/HTML.png" alt="HTML" width="120">
+  <img src="https://img.shields.io/badge/CLion-000000.svg?logo=clion&logoColor=ffffff&style=for-the-badge" alt="CLion">
+  <img src="https://img.shields.io/badge/WebStorm-000000.svg?logo=webstorm&logoColor=ffffff&style=for-the-badge" alt="WebStorm">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VSCode">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu">
 </p>
 
 ## 🌍 Languages I Use
 <p align="center">
-  <img src="https://img.shields.io/badge/中文-zh_CN-informational?logo=china&logoColor=red" alt="Chinese">
-  <img src="https://img.shields.io/badge/English-en-green?logo=unitedkingdom&logoColor=blue" alt="English">
+  <img src="https://img.shields.io/badge/中文-zh_CN-informational?logo=china&logoColor=red&style=for-the-badge" alt="Chinese">
+  <img src="https://img.shields.io/badge/English-en-green?logo=unitedkingdom&logoColor=blue&style=for-the-badge" alt="English">
 </p>
-<!--
-**BI7KHI/BI7KHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+
+## 🌟 Featured Projects
+<p align="center">
+  <a href="https://github.com/BI7KHI/HAM_OperationTechnicalVerification" target="_blank"><img src="https://img.shields.io/badge/HAM_OperationTechnicalVerification-题库&模拟程序-ff6b6b?style=for-the-badge&logo=github" alt="HAM 题库"></a>
+  <a href="https://github.com/BI7KHI/INA226-PowerMeasurement-Arduino" target="_blank"><img src="https://img.shields.io/badge/INA226-功率测量-4ecdc4?style=for-the-badge&logo=arduino" alt="INA226 项目"></a>
+  <a href="https://github.com/BI7KHI/CUMCM2025-C" target="_blank"><img src="https://img.shields.io/badge/CUMCM2025-C-ffd166?style=for-the-badge&logo=mathworks" alt="数学建模"></a>
+</p>
+
+> ✨ Focus on Embedded Development & HAM Radio | 持续探索技术边界，欢迎 Star/Fork 交流！
