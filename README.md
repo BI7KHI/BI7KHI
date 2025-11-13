@@ -2,13 +2,6 @@
 
 A College Student @ Guangdong University of Technology | HAM Radio Enthusiast | Embedded Developer
 
-📫 Connect with Me  
-<p align="center">
-  <a href="https://blog.bi7khi.xyz" target="_blank"><img src="https://img.shields.io/badge/Blog-bi7khi.xyz-2563eb?logo=blogger&logoColor=white" alt="Blog"></a>
-  <a href="https://space.bilibili.com/667586588" target="_blank"><img src="https://img.shields.io/badge/Bilibili-@BI7KHI-fa7298?logo=bilibili&logoColor=white" alt="Bilibili"></a>
-  <a href="https://www.qrz.com/db/bi7khi" target="_blank"><img src="https://img.shields.io/badge/QRZ-bi7khi-009688?logo=radio&logoColor=white" alt="QRZ"></a>
-</p>
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BI7KHI&show_icons=true&theme=dark&hide=issues&count_private=true&hide_border=true" alt="GitHub Stats" width="48%">
