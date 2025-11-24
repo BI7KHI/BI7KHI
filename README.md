@@ -32,3 +32,5 @@ A College Student @ Guangdong University of Technology | HAM Radio Enthusiast | 
 </p>
 
 > ✨ Focus on Embedded Development & HAM Radio | 持续探索技术边界，欢迎 Star/Fork 交流！
+
+> Make <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge" alt="Arch"> Great Again !
