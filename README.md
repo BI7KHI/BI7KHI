@@ -15,6 +15,7 @@ A College Student @ Guangdong University of Technology | HAM Radio Enthusiast | 
   <img src="https://img.shields.io/badge/WebStorm-000000.svg?logo=webstorm&logoColor=ffffff&style=for-the-badge" alt="WebStorm">
   <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VSCode">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge" alt="Arch Linux">
 </p>
 
 ## 🌍 Languages I Use
