@@ -4,7 +4,6 @@ A College Student @ Guangdong University of Technology | HAM Radio Enthusiast | 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BI7KHI&show_icons=true&theme=dark&hide=issues&count_private=true&hide_border=true" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BI7KHI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="32%">
 </p>
 
