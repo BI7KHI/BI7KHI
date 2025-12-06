@@ -2,12 +2,6 @@
 
 A College Student @ Guangdong University of Technology | HAM Radio Enthusiast | Embedded Developer
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BI7KHI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="32%">
-</p>
-
-
 ## 🛠️ Working Environment
 <p align="center">
   <img src="https://img.shields.io/badge/CLion-000000.svg?logo=clion&logoColor=ffffff&style=for-the-badge" alt="CLion">
