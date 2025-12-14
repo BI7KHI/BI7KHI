@@ -1,4 +1,4 @@
-## Hi there 👋 I'm BI7KHI
+## Hi there 👋 I'm Xuanna024
 
 A College Student @ Guangdong University of Technology | HAM Radio Enthusiast | Embedded Developer
 
