@@ -3,7 +3,7 @@
 A College Student @ Guangdong University of Technology | HAM Radio Enthusiast | Embedded Developer
 
 ## 📈 Github Stats
-[![BI7KHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=BI7KHI)](https://github.com/anuraghazra/github-readme-stats)
+![BI7KHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=BI7KHI&show_icons=true&theme=dark)
 ![](https://raw.githubusercontent.com/BI7KHI/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/BI7KHI/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BI7KHI&theme=2077)
