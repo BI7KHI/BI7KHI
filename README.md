@@ -3,8 +3,10 @@
 A College Student @ Guangdong University of Technology | HAM Radio Enthusiast | Embedded Developer
 
 ## 📈 Github Stats
+[![BI7KHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=BI7KHI)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://raw.githubusercontent.com/BI7KHI/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/BI7KHI/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[![BI7KHI's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BI7KHI&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🛠️ Working Environment
 <p align="center">
   <img src="https://img.shields.io/badge/CLion-000000.svg?logo=clion&logoColor=ffffff&style=for-the-badge" alt="CLion">
