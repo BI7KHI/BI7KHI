@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Xuanna024
 
-A College Student @ Guangdong University of Technology | HAM Radio Enthusiast | Embedded Developer
+A College Student @ Guangdong University of Technology | HAM Radio Enthusiast & BI7KHI | Embedded Developer & Arduino、ESP32、STM32 | Full-Stack Developer（Maybe a fool
 
 ## 📈 Github Stats
 ![BI7KHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=BI7KHI&show_icons=true&theme=dark)
