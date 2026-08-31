@@ -4,8 +4,6 @@ A College Student @ Guangdong University of Technology | HAM Radio Enthusiast & 
 
 ## 📈 Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BI7KHI&theme=vision_friendly_dark)
-![](https://raw.githubusercontent.com/BI7KHI/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/BI7KHI/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BI7KHI&theme=vision_friendly_dark&utcOffset=8)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=BI7KHI&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BI7KHI&theme=vision_friendly_dark)
