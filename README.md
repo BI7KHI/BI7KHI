@@ -23,13 +23,6 @@ A College Student @ Guangdong University of Technology | HAM Radio Enthusiast & 
   <img src="https://img.shields.io/badge/English-en-green?logo=unitedkingdom&logoColor=blue&style=for-the-badge" alt="English">
 </p>
 
-## 🌟 Featured Projects
-<p align="center">
-  <a href="https://github.com/BI7KHI/HAM_OperationTechnicalVerification" target="_blank"><img src="https://img.shields.io/badge/HAM_OperationTechnicalVerification-题库&模拟程序-ff6b6b?style=for-the-badge&logo=github" alt="HAM 题库"></a>
-  <a href="https://github.com/BI7KHI/INA226-PowerMeasurement-Arduino" target="_blank"><img src="https://img.shields.io/badge/INA226-功率测量-4ecdc4?style=for-the-badge&logo=arduino" alt="INA226 项目"></a>
-  <a href="https://github.com/BI7KHI/CUMCM2025-C" target="_blank"><img src="https://img.shields.io/badge/CUMCM2025-C-ffd166?style=for-the-badge&logo=mathworks" alt="数学建模"></a>
-</p>
-
 > ✨ Focus on Embedded Development & HAM Radio | 持续探索技术边界，欢迎 Star/Fork 交流！
 
 > Make <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge" alt="Arch"> Great Again !
