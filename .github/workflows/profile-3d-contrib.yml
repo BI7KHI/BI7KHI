@@ -1,0 +1,54 @@
+# 生成 3D 贡献图（profile-3d-contrib/profile-*.svg）
+# 文档：https://github.com/yoshi389111/github-profile-3d-contrib
+#
+# 首次使用：打开仓库 Actions 页面 → 选择左侧 "GitHub-Profile-3D-Contrib" → Run workflow
+# 之后每天 UTC 18:00（北京时间 02:00）自动更新一次，无需人工干预。
+#
+# 如需把「私有仓库的贡献」也统计进来：
+#   1) GitHub 设置 → Public profile → Contributions & Activity → 勾选 Include private contributions on my profile
+#   2) 若仍有遗漏，可创建一个 Personal access token（含 read:user 权限）并添加为仓库 Secret，
+#      然后把下面 env 里的 GITHUB_TOKEN 改成 ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}
+
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    # 每天 UTC 18:00 / 北京时间 02:00
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-3d-contrib.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A .
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update 3D contribution graph [skip ci]"
+            git push
+          fi
