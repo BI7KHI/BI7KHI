@@ -1,12 +1,6 @@
 ## Hi there 👋 I'm Xuanna024
 
-A College Student @ Guangdong University of Technology | HAM Radio Enthusiast & BI7KHI | Embedded Developer & Arduino、ESP32、STM32 | Full-Stack Developer（Maybe a fool
-
-## 📈 Github Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BI7KHI&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BI7KHI&theme=vision_friendly_dark&utcOffset=8)
-![](https://github-readme-activity-graph.vercel.app/graph?username=BI7KHI&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BI7KHI&theme=vision_friendly_dark)
+A College Student @ Guangdong University of Technology | HAM Radio Enthusiast & BI7KHI | Embedded Developer & Arduino、ESP32、STM32 | Full-Stack Developer（Maybe a fool)
 
 ## 🛠️ Working Environment
 <p align="center">
